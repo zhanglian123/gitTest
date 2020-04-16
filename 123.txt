@@ -1,2 +1,2 @@
-新增一个文件，并推送到远程仓库
+新增一个文件，并推送到远程仓库bug分支练习
 Creating a New branch is quick.
